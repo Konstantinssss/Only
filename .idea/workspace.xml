@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff23ae16-5d2f-44c5-87bf-3107964cfcc2" name="Changes" comment="first commit" />
+    <list default="true" id="ff23ae16-5d2f-44c5-87bf-3107964cfcc2" name="Changes" comment="first commit">
+      <change afterPath="$PROJECT_DIR$/chrome.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Page 1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Page 1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chromedriver.exe" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,6 +36,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python tests.Python tests in Page 1.py.executor": "Run",
+    "Python.errorhandler.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "C:/Users/Konstantin/PycharmProjects/demoqa/Only"
@@ -43,6 +50,9 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Konstantin\PycharmProjects\demoqa\Only" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Konstantin\PycharmProjects\demoqa\Only" />
     </key>
   </component>
@@ -70,7 +80,23 @@
       <option name="project" value="LOCAL" />
       <updated>1744796751329</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1744796848089</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1744796848089</updated>
+    </task>
+    <task id="LOCAL-00003" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1744797138084</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1744797138085</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
